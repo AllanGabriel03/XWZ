@@ -1,1 +1,1 @@
-# XWZ
+Banco de dados desenvolvido no PostgreSQL para configurar o banco de dados precisar percorrer a pasta src/main/java/DAO, na pasta DAO abrir o arquivo ConnectionFactory e inserir a porta do seu pgAdmin, usuário e senha. 
