@@ -1,0 +1,44 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+22
+-sourcepath
+'C:/Users/allan/OneDrive/Documentos/NetBeansProjects/InterfaceJava/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/allan/OneDrive/Documentos/NetBeansProjects/InterfaceJava/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'InterfaceJava 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'InterfaceJava 1.0-SNAPSHOT API'
+com.mycompany.interfacejava.DAO
+com.mycompany.interfacejava
+com.mycompany.interfacejava.Veiculos
+C:\Users\allan\OneDrive\Documentos\NetBeansProjects\InterfaceJava\src\main\java = 1737661777444
+C:\Users\allan\OneDrive\Documentos\NetBeansProjects\InterfaceJava\target\reports\apidocs\allclasses-index.html = 1737662478451
+C:\Users\allan\OneDrive\Documentos\NetBeansProjects\InterfaceJava\target\reports\apidocs\allpackages-index.html = 1737662478454
+C:\Users\allan\OneDrive\Documentos\NetBeansProjects\InterfaceJava\target\reports\apidocs\element-list = 1737662478385
+C:\Users\allan\OneDrive\Documentos\NetBeansProjects\InterfaceJava\target\reports\apidocs\help-doc.html = 1737662478478
+C:\Users\allan\OneDrive\Documentos\NetBeansProjects\InterfaceJava\target\reports\apidocs\index-all.html = 1737662478468
+C:\Users\allan\OneDrive\Documentos\NetBeansProjects\InterfaceJava\target\reports\apidocs\index.html = 1737662478442
+C:\Users\allan\OneDrive\Documentos\NetBeansProjects\InterfaceJava\target\reports\apidocs\member-search-index.js = 1737662478460
+C:\Users\allan\OneDrive\Documentos\NetBeansProjects\InterfaceJava\target\reports\apidocs\module-search-index.js = 1737662478456
+C:\Users\allan\OneDrive\Documentos\NetBeansProjects\InterfaceJava\target\reports\apidocs\overview-summary.html = 1737662478473
+C:\Users\allan\OneDrive\Documentos\NetBeansProjects\InterfaceJava\target\reports\apidocs\overview-tree.html = 1737662478437
+C:\Users\allan\OneDrive\Documentos\NetBeansProjects\InterfaceJava\target\reports\apidocs\package-search-index.js = 1737662478457
+C:\Users\allan\OneDrive\Documentos\NetBeansProjects\InterfaceJava\target\reports\apidocs\search.html = 1737662478471
+C:\Users\allan\OneDrive\Documentos\NetBeansProjects\InterfaceJava\target\reports\apidocs\tag-search-index.js = 1737662478461
+C:\Users\allan\OneDrive\Documentos\NetBeansProjects\InterfaceJava\target\reports\apidocs\type-search-index.js = 1737662478458
