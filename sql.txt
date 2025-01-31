@@ -1,0 +1,34 @@
+create database xwz;
+
+create table tb_carros (
+   id bigint,
+   modelo varchar(50) not null,
+   fabricante varchar(50) not null,
+   ano Integer not null,
+   preco Integer not null,
+   quantidadedeportas Integer not null,
+   tipocombustivel varchar(50) not null
+);
+
+create table tb_motos (
+   id bigint,
+   modelo varchar(50) not null,
+   fabricante varchar(50) not null,
+   ano Integer not null,
+   preco Integer not null,
+   cilindrada Integer not null
+);
+ 
+create sequence sq_carros
+start 1
+increment 1
+owned by tb_carros.id;
+
+create sequence sq_motos
+start 1
+increment 1
+owned by tb_motos.id;
+
+ALTER TABLE tb_carros 
+ADD CONSTRAINT chk_tipoCombustivel 
+CHECK (tipoCombustivel IN ('gasolina', 'etanol', 'diesel', 'flex'));
